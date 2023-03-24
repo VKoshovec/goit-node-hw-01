@@ -1,7 +1,7 @@
 # goit-node-hw-01
 
 <!-- list -->
-https://monosnap.com/file/Grd5T11YBBoogNHCdBEPxSkCU7RpuN
+https://monosnap.com/file/N1ZNzUiMSI72Uez5oS9NalbQhLP4yW
 
 <!-- get -->
 https://monosnap.com/file/qLEHu6bEimqRA3Wk0JTLcIHrUu9WCl
